@@ -4,6 +4,8 @@
 
 ## About
 
+![Fire Perimeter Map](output.png)
+
 **Purpose:** This notebook uses false color imagery to visualize the aftermath of the Eaton and Palisades fires in Southern California Feb 23, 2025. 
 
 **Highlights:**
